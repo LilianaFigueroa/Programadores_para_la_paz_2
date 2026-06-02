@@ -1,0 +1,9 @@
+Teniendo en cuenta que las comunidades requieren de procesos colaborativos que fortalezcan el tejido social, 
+especialmente en la recepción y transmisión de información interna y externa, es fundamental que esta se caracterice por la claridad del lenguaje,
+la precisión de los datos, la veracidad de la información y su aporte al bienestar colectivo. 
+Además, debe responder de manera constante y real a las problemáticas y necesidades de la comunidad.
+
+En este contexto, Node.js, al ser una herramienta de código abierto, contribuye a reducir costos de desarrollo y de acceso tecnológico. 
+A diferencia de otras respuestas que pueden requerir grandes presupuestos o mayor intervención externa, Node.js es gratuito y accesible, 
+lo que favorece a la participación, el aprendizaje autónomo y el fortalecimiento de las capacidades tecnológicas dentro de las comunidades,
+permitiendoles tener mayor manejo de los procesos.
