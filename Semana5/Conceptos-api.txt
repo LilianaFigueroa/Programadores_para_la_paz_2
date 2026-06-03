@@ -1,0 +1,5 @@
+La ruta POST se encarga de enviar o registrar información, 
+por lo que cumple un papel importante dentro de un proceso comunicativo, 
+ya que permite recibir datos enviados por las personas y ponerlos a disposición del sistema.
+Desde lo comunitario, una ruta POST puede ser de gran utilidad en una aplicación, 
+ya que facilita que quienes la utilizan compartan información, opiniones, necesidades, propuestas o reportes.
