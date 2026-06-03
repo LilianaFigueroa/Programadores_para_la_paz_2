@@ -1,0 +1,8 @@
+Las APIs son clave, ya que facilitan la transmisión y el intercambio de datos y otros elementos
+entre diferentes softwares, cumpliendo así un papel importante en el trabajo colectivo y comunicativo de una comunidad. 
+Además, permiten reutilizar funciones ya existentes en lugar de construirlas nuevamente desde cero, optimizando tareas
+y facilitando que se invierta tiempo y esfuerzo en otras labores comunitarias desde lo digital.
+
+Un ejemplo de ello es Google, que mediante sus APIs permite la conexión entre distintos servicios y aplicaciones. 
+De esta manera, funciona como un puente para el intercambio de información entre herramientas como Google Docs, Google Maps y otros servicios, 
+favoreciendo una mayor integración y acceso a los recursos digitales.
